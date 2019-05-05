@@ -1,5 +1,4 @@
-Note
-======
+## Note
 This is a fork of AnimatedGif. This version aims to play the gif a set number of times instead of a time in minutes. if you are looking for a version that plays for <i>shorter</i> ammounts of time instead, check out
 [eokuwwy's fork](https://github.com/eokuwwy/AnimatedGif/commit/94868163c6686ed17b51b6b8a4bd9c80dfa28439 "eokuwwy's version").
 
